@@ -1,0 +1,1 @@
+Si ejecutas el migrations se crea la bd automaticamente, por eso no la he puesto
